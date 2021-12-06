@@ -6,7 +6,7 @@ ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4x
 ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h
 ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l431xx.h
 ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/CMSIS/Include/core_cm4.h
-ledflashing\stm32l4xx_hal_tim_ex.o: D:\大学课程\单片机\工具\keil\ARM\ARMCC\Bin\..\include\stdint.h
+ledflashing\stm32l4xx_hal_tim_ex.o: D:\keil5mdk\ARM\ARMCC\Bin\..\include\stdint.h
 ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/CMSIS/Include/cmsis_version.h
 ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -14,7 +14,7 @@ ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/system_stm32l4xx.h
 ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h
 ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-ledflashing\stm32l4xx_hal_tim_ex.o: D:\大学课程\单片机\工具\keil\ARM\ARMCC\Bin\..\include\stddef.h
+ledflashing\stm32l4xx_hal_tim_ex.o: D:\keil5mdk\ARM\ARMCC\Bin\..\include\stddef.h
 ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc_ex.h
 ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_gpio.h
 ledflashing\stm32l4xx_hal_tim_ex.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_gpio_ex.h
